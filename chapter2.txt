@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+it was the age of wisdom, it was the age of foolishness.foolishness
+=======
+it was the age of wisdom, it was the age of foolishness.okkk
+>>>>>>> alien-plot
